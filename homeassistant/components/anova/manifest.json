@@ -1,0 +1,8 @@
+{
+  "domain": "anova",
+  "name": "Anova",
+  "documentation": "https://www.home-assistant.io/integrations/anova",
+  "dependencies": [],
+  "codeowners": ["@pkuyten"],
+  "requirements": ["pygatt[GATTTOOL]==4.0.5","git+https://github.com/pkuyten/pyanova.git@Home-Assistant-Integration#pyanova==0.2.0"]
+}
